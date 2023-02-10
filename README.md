@@ -10,7 +10,7 @@ The recommended movies are based on the preferences of other users who have rate
 
 Prerequisites:-
 
-Python 3.6 or later
+Python 3.6 or later\n
 NumPy
 Pandas
 SciPy
