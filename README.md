@@ -3,11 +3,13 @@ SEMESTER-6 MINI PROJECT BASED ON MACHINE LEARNING
 
 Welcome to the Movie Recommendation System! This system is designed to recommend movies to users based on their preferences and movie ratings.
 
-Getting Started
+Getting Started:-
+
 The system is built using the MovieLens dataset and Collaborative Filtering techniques. 
 The recommended movies are based on the preferences of other users who have rated similar movies.
 
-Prerequisites
+Prerequisites:-
+
 Python 3.6 or later
 NumPy
 Pandas
@@ -31,11 +33,13 @@ python Movie_recommender_system_collab_filtering.ipynb
 Enter your user ID and the number of recommended movies you would like to receive.
 
 Contributions by:-
+
+Ayan Javeed Shaikh
 Fazal Jalil Parkar
 Safwan Salim Bebal
 Muzakkir Jafarali Siddique
 
-Acknowledgments:
+Acknowledgments:-
 
 MovieLens dataset
 Collaborative Filtering
