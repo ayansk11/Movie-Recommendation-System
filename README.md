@@ -1,5 +1,5 @@
 # Movie-Recommendation-System
-SEMESTER-6 MINI PROJECT BASED ON MACHINE LEARNING
+SEMESTER VI MINI PROJECT BASED ON MACHINE LEARNING
 
 Welcome to the Movie Recommendation System! This system is designed to recommend movies to users based on their preferences and movie ratings.
 
